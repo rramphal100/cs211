@@ -1,0 +1,14 @@
+Ryan|Ramphal
+John|Doe|7184445567|john.doe@gmail.com55|John Young Parkway |Cupertino|CA|12345|12345|12345
+Deepa|Prashad|4444444444|4@e.com|44|44|none|44|44|44
+Rachel|Ramphal|1112223333|rachel@nyc.rr.com123|House Lane |New York|NY|11354|11354|11354
+endofbook|
+
+Raj|Ramphal
+Rajiv|Misir|5195047722|rajiv@jacksonultima.com789|Hawk Lane |ON|N2K424|N2K424|N2K424|N2K424
+Ramona|Ramphal|2225558888|ramona@aol.com445|Siew Misir Street145|Corentyne Berbice|GA|N2K455|N2K455|N2K455
+endofbook|
+
+Annie|Wong
+endofbook|
+
